@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .body{
     width: 100%;
     height: auto;
@@ -17,4 +18,25 @@
 }
 .text-center a{
     color:rgba(73, 160, 3, 0.87) !important ;
+=======
+.body{
+    width: 100%;
+    height: auto;
+    padding-top: 100px;
+    padding-bottom: 80px;
+    background-image: url(../images/banner.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+
+}
+.connexion{
+    background-color: rgba(73, 160, 3, 0.87) !important;
+    border-color:rgba(73, 160, 3, 0.87) !important ;
+
+}
+.text-center a{
+    color:rgba(73, 160, 3, 0.87) !important ;
+>>>>>>> b49f78283775c6fcb21ecaa2adbd8c789f4b688f
 }

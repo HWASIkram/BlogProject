@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .btn-primary{
     background-color: rgba(73, 160, 3, 0.87) !important;
     border-color:rgba(73, 160, 3, 0.87) !important ;
@@ -5,4 +6,13 @@
 }
 .text-center a{
     color:rgba(73, 160, 3, 0.87) !important ;
+=======
+.btn-primary{
+    background-color: rgba(73, 160, 3, 0.87) !important;
+    border-color:rgba(73, 160, 3, 0.87) !important ;
+
+}
+.text-center a{
+    color:rgba(73, 160, 3, 0.87) !important ;
+>>>>>>> b49f78283775c6fcb21ecaa2adbd8c789f4b688f
 }
