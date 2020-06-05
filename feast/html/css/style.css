@@ -10,6 +10,9 @@
     position: relative;
 
 }
+.liste{
+  background-color: black;
+}
 .connexion{
     background-color: rgba(73, 160, 3, 0.87) !important;
     border-color:rgba(73, 160, 3, 0.87) !important ;
@@ -22,10 +25,21 @@ body {
     padding-top: 56px;
   }
   .navbar{
-    background-color: #77476d;
+    background-color: black;
   }
   .user{
     border-radius: 35%;
-    width: 100%;
-    height: 100%;
+    margin-left: 25%;
+  }
+  .center{
+    text-align: center;
+    color: white;
+  }
+  .background-border{
+    background-color: black;
+    border-color: black;
+  }
+  .list-group-item.active {
+    background-color: green;
+    border-color: green;
   }
